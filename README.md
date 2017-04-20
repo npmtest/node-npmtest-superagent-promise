@@ -1,4 +1,7 @@
-# test coverage for  [superagent-promise (v1.1.0)](https://github.com/lightsofapollo/superagent-promise#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-superagent-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-superagent-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-superagent-promise.svg)](https://travis-ci.org/npmtest/node-npmtest-superagent-promise)
+# npmtest-superagent-promise
+
+#### basic test coverage for  [superagent-promise (v1.1.0)](https://github.com/lightsofapollo/superagent-promise#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-superagent-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-superagent-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-superagent-promise.svg)](https://travis-ci.org/npmtest/node-npmtest-superagent-promise)
+
 #### superagent promise wrapper
 
 [![NPM](https://nodei.co/npm/superagent-promise.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/superagent-promise)
